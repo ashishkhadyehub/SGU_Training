@@ -12,7 +12,6 @@
 
 
     <asp:ContentPlaceHolder ID="head" runat="server">
-
     </asp:ContentPlaceHolder>
 </head>
 <body>
@@ -30,9 +29,21 @@
                     <li class="nav-item">
                         <a class="nav-link" href="Register.aspx">Master & Content Page</a>
                     </li>
-                       
+                    <li class="nav-item">
+                        <a class="nav-link" href="IPExmple.aspx">IsPostBack</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="VSExample.aspx">Viewstate</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="S1.aspx">Session</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Q1.aspx">Querystring</a>
+                    </li>
+
                     <!-- Dropdown -->
-                    
+
                 </ul>
             </nav>
 
@@ -41,7 +52,7 @@
                 <%--content page--%>
             </asp:ContentPlaceHolder>
             <hr />
-            <h2 style="text-align:center">This is footer</h2>
+            <h2 style="text-align: center">This is footer</h2>
         </div>
     </form>
 </body>
