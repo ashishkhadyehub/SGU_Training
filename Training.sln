@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions", "Sessions\Sessions.csproj", "{57B17AB5-4C8A-4FD7-89D6-0D9B5E4B0272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpPortal", "EmpPortal\EmpPortal.csproj", "{9877338D-7AC9-4639-882E-07ACC9D11558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{57B17AB5-4C8A-4FD7-89D6-0D9B5E4B0272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57B17AB5-4C8A-4FD7-89D6-0D9B5E4B0272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57B17AB5-4C8A-4FD7-89D6-0D9B5E4B0272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9877338D-7AC9-4639-882E-07ACC9D11558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9877338D-7AC9-4639-882E-07ACC9D11558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9877338D-7AC9-4639-882E-07ACC9D11558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9877338D-7AC9-4639-882E-07ACC9D11558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
